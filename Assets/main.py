@@ -12,7 +12,7 @@ class Main(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("Path Planning")
+        self.title("Path Visualizer")
 
         self.geometry('1050x1000')
 
