@@ -1,0 +1,1 @@
+python Assets/main.py

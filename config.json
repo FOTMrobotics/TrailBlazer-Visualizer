@@ -1,0 +1,16 @@
+{
+    "primaryColor": "#313338",
+    "secondaryColor": "#383A40",
+    "tertiaryColor": "#313338",
+    "borderColor": "#1E1F22",
+    "borderThickness": 1,
+    "textColor": "#ffffff",
+    "font": "TkDefaultFont",
+    "fontSize": 10,
+    "unit": "inch",
+    "fieldImage": "field.png",
+    "pathColor": "#FFFF00",
+    "pathSize": 2,
+    "pointColor": "#FF0000",
+    "eventColor": "#00FFF0"
+}
